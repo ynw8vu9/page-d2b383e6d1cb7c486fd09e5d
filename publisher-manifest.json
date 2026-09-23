@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "23327ca6ac1d3267fa987d6b",
+  "owner": "ynw8vu9",
+  "repo": "page-d2b383e6d1cb7c486fd09e5d",
+  "title": "银河云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d2b383e6d1cb7c486fd09e5d",
+      "a": "银河云",
+      "b": "机场官网线路发布页",
+      "entity": "银河云",
+      "brand": "银河云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "aa92a468a2fd12f04a2b6b108c10d3dc442efc06b77f9d41447934aef520910e",
+      "content": {
+        "primary_entity": "银河云",
+        "keyword1": "银河云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "银河云支持主流客户端，按设备系统选择对应版本，订阅配置更简单。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好设备与套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用银河云",
+          "AI_DESCRIPTION": "，主打海外加速场景，提供基础版、旗舰版和团队版三档订阅，月流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线，年付方案更划算，可按设备数量和用量灵活选择。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB，适合单人或少量设备；旗舰版 300GB 支持 5 台设备，有 IPLC 专线；团队版 1000GB 支持 20 台设备。按用量和设备数选择即可。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。如需更多设备，可选择更高档套餐。",
+          "AI_FAQ_ANSWER_3": "选择设备对应的客户端，按客户端文档导入订阅链接。订阅更新后节点会自动同步，无需手动更换配置。",
+          "AI_FAQ_ANSWER_4": "可以。年付方案比月付更优惠，基础版年付 ¥150/年，旗舰版年付 ¥350/年，团队版年付 ¥850/年。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 7x24 优先工单支持，团队版配有专属客户经理。遇到订阅或配置问题可先查阅客户端文档。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "银河云套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量有限制吗？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "可以按年付费吗？",
+          "AI_FAQ_QUESTION_5": "遇到问题怎么获得支持？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和订阅周期三个角度了解银河云的套餐差异。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按日常在线设备数选择。",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB，视频、游戏或团队协作按用量匹配档位。",
+          "AI_FEATURE_TEXT_3": "三档均提供年付方案，年付价格低于按月支付，适合长期使用。",
+          "AI_FEATURE_TITLE_1": "按设备数选",
+          "AI_FEATURE_TITLE_2": "按流量选",
+          "AI_FEATURE_TITLE_3": "按周期选",
+          "AI_GUIDE_INTRO": "三步完成银河云订阅配置，按设备文档操作即可。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "银河云提供海外加速订阅，基础版、旗舰版与团队版覆盖不同流量和设备需求，年付更优惠，适合个人、多设备用户及小型团队根据用量灵活选择。",
+          "AI_HERO_SUBTITLE": "海外加速订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月流量 100GB 到 1000GB",
+          "AI_HIGHLIGHT_3": "年付方案更优惠",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别为 ¥150、¥350、¥850，按设备与流量选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选客户端的最低系统要求与连接方式。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅链接，配置完成后开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "银河云海外加速订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shhgthb.cn",
+    "host": "shhgthb.cn"
+  },
+  "file_hashes": {
+    "index.html": "7f4c9e3cb5646995cfc3511a56eea0881b97b1e83f9d5304396523ed64a84486",
+    "sitemap.xml": "a21d79db9b603f82b6f9eecaef397397093eb88d9503dcc9ce3f516c04014858",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dddff9a6b80b50ec9a1ddcdfd6550e69b01af3178da1a30c8782cae3e78be152",
+    "robots.txt": "2586c74659d8dbea4449b7dfe04ddcc36f34936ea538e2d7966d663289387dd7",
+    "9c15c32fe208a11c0119c37549d199ef.txt": "d60fa304ef3310e89a4ce38aff6d53a5b66f42b279ecebf80e3a843ff522eaba"
+  },
+  "revision": "7839e6ab0376e06888be7a827b6b537dfcb4d192f767283e8a4988c841acf9a7"
+}

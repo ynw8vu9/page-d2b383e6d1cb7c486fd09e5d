@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shhgthb.cn/sitemap.xml
